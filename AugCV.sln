@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AugCV", "AugCV.vcxproj", "{FD2EB737-1B49-4210-8793-25A25916B19A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoArtilleryCalculator", "..\AutoArtilleryCalculator\AutoArtilleryCalculator.vcxproj", "{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FoxholeMacroMaker", "..\FoxholeMacroMaker\FoxholeMacroMaker.vcxproj", "{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CV Debug|x64 = CV Debug|x64
+		CV Debug|x86 = CV Debug|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.CV Debug|x64.ActiveCfg = CV Debug|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.CV Debug|x64.Build.0 = CV Debug|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.CV Debug|x86.ActiveCfg = CV Debug|Win32
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.CV Debug|x86.Build.0 = CV Debug|Win32
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Debug|x64.ActiveCfg = Debug|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Debug|x64.Build.0 = Debug|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Debug|x86.Build.0 = Debug|Win32
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Release|x64.ActiveCfg = Release|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Release|x64.Build.0 = Release|x64
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Release|x86.ActiveCfg = Release|Win32
+		{FD2EB737-1B49-4210-8793-25A25916B19A}.Release|x86.Build.0 = Release|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.CV Debug|x64.ActiveCfg = Debug|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.CV Debug|x64.Build.0 = Debug|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.CV Debug|x86.ActiveCfg = Debug|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.CV Debug|x86.Build.0 = Debug|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Debug|x64.ActiveCfg = Debug|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Debug|x64.Build.0 = Debug|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Debug|x86.Build.0 = Debug|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Release|x64.ActiveCfg = Release|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Release|x64.Build.0 = Release|x64
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Release|x86.ActiveCfg = Release|Win32
+		{FCDAAA0C-DD79-4D78-8AFF-A317E8C26D50}.Release|x86.Build.0 = Release|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.CV Debug|x64.ActiveCfg = Debug|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.CV Debug|x64.Build.0 = Debug|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.CV Debug|x86.ActiveCfg = Debug|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.CV Debug|x86.Build.0 = Debug|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Debug|x64.ActiveCfg = Debug|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Debug|x64.Build.0 = Debug|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Debug|x86.Build.0 = Debug|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Release|x64.ActiveCfg = Release|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Release|x64.Build.0 = Release|x64
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Release|x86.ActiveCfg = Release|Win32
+		{4B4EDD16-FD11-482A-BAFE-B99EEAA3A5E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D695D2A1-272B-4A77-A4C0-DFED9E1CADDE}
+	EndGlobalSection
+EndGlobal
